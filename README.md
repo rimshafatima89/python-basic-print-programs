@@ -1,2 +1,5 @@
-# python-basic-print-programs
-A collection of beginner-friendly Python projects focused on print statements and basic concepts.
+# Python Print Projects 🐍
+
+This repository contains beginner-level Python projects that focus on using
+`print()` statements and basic programming concepts.
+
